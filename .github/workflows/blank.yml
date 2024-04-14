@@ -39,3 +39,6 @@ jobs:
         run: |
           echo "TEST"
 
+      - name: ECHO1
+        run: |
+          echo "TEST1"
